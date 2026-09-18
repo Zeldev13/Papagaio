@@ -75,3 +75,5 @@ Como usar este documento
 Ao abrir uma conversa nova pra trabalhar num módulo específico, cole este documento inteiro e diga qual fase/módulo é o foco daquela conversa. Isso garante que qualquer trabalho feito isoladamente já nasce respeitando o contrato de dados e a estrutura de pastas do projeto como um todo.
 
 Documento de arquitetura completo (com diagrama e detalhes de cada fase): ver artifact "Arquitetura — Sistema de Dublagem Automática".
+
+teste
